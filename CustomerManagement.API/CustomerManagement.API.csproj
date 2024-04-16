@@ -187,9 +187,7 @@
     <Compile Include="Models\CustomerModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\Implementations\CustomerRepository.cs" />
-    <Compile Include="Repositories\Interface\ICustomerRepository.cs" />
     <Compile Include="Services\Implementations\CustomerService.cs" />
-    <Compile Include="Services\Interface\ICustomerService.cs" />
     <Compile Include="tbl_Customer.cs">
       <DependentUpon>CustomerManagement.tt</DependentUpon>
     </Compile>

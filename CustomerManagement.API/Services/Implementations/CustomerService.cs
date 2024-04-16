@@ -1,7 +1,5 @@
 ﻿using CustomerManagement.API.Models;
 using CustomerManagement.API.Repositories.Implementations;
-using CustomerManagement.API.Repositories.Interface;
-using CustomerManagement.API.Services.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;

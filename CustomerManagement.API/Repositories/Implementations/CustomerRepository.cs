@@ -1,5 +1,4 @@
 ﻿
-using CustomerManagement.API.Repositories.Interface;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
